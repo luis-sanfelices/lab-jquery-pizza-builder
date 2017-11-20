@@ -362,6 +362,7 @@ p.description {
 
 .hidden {
     visibility: hidden;
+    height: 0;
 }
 /*--- Pepperoni ---*/
 #pepperoni section:nth-child(7) {
